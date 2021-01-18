@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jin Kai Teh",
 	"description": "My first NodeJS app.",
+	"version": "1.4.0",
 	"keywords": [
 		"nodeJS",
 		"freecodecamp",
