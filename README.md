@@ -1,2 +1,2 @@
 # freeCodeCamp-npm
-My attempt on freeCodeCamp NodeJScourse
+My attempt on freeCodeCamp NodeJS course
